@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1696023398 source:d:\ahmed\embbeded systems\code_c\login_screen\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+
